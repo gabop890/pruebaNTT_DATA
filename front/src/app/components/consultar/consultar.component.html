@@ -1,0 +1,56 @@
+<div class="card position-absolute top-50 start-50 translate-middle" >
+  <div class="card-body">
+    <form
+      class=""
+      [formGroup]="formConsultar"
+      (ngSubmit)="consultar()"
+    >
+      <div class="mb-3">
+        <label class="input-group-text" for="inputGroupSelect01"
+          >Tipo de documento</label
+        >
+        <select
+          class="form-select"
+          aria-label="Default select example"
+          formControlName="tipoDocumento"
+          required
+        >
+          <option value="CC">Cedula de ciudadania</option>
+          <option value="PA">Pasaporte</option>
+          <option value="RC">Registro civil</option>
+        </select>
+        @if (formConsultar.get("tipoDocumento")?.invalid &&
+        formConsultar.get("tipoDocumento")?.touched) { @if
+        (formConsultar.get("tipoDocumento")?.hasError("required")) {
+        <div class="col-sm-12">
+          <small id="passwordHelp" class="text-danger"
+            >Debe seleccionar un tipo de documento</small
+          >
+        </div>
+        } }
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label"
+          >Número de documento</label
+        >
+        <input
+          type="text"
+          class="form-control"
+          id="exampleInputPassword1"
+          formControlName="numeroDocumento"
+          required
+        />
+        @if (formConsultar.get("numeroDocumento")?.invalid &&
+        formConsultar.get("numeroDocumento")?.touched) { @if
+        (formConsultar.get("numeroDocumento")?.hasError("required")) {
+        <div class="col-sm-12">
+          <small id="passwordHelp" class="text-danger"
+            >Debe escribir un número de documento.</small
+          >
+        </div>
+        } }
+      </div>
+      <button type="submit" class="btn btn-primary">Buscar</button>
+    </form>
+  </div>
+</div>
