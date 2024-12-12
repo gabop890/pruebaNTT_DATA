@@ -12,37 +12,36 @@
         <select
           class="form-select"
           aria-label="Default select example"
-          formControlName="tipoDocumento"
+          formControlName="tipoIdentificacion"
           required
         >
-          <option value="CC">Cedula de ciudadania</option>
-          <option value="PA">Pasaporte</option>
-          <option value="RC">Registro civil</option>
+          <option value="C">Cedula de ciudadania</option>
+          <option value="P">Pasaporte</option>
         </select>
-        @if (formConsultar.get("tipoDocumento")?.invalid &&
-        formConsultar.get("tipoDocumento")?.touched) { @if
-        (formConsultar.get("tipoDocumento")?.hasError("required")) {
+        @if (formConsultar.get("tipoIdentificacion")?.invalid &&
+        formConsultar.get("tipoIdentificacion")?.touched) { @if
+        (formConsultar.get("tipoIdentificacion")?.hasError("required")) {
         <div class="col-sm-12">
-          <small id="passwordHelp" class="text-danger"
+          <small class="text-danger"
             >Debe seleccionar un tipo de documento</small
           >
         </div>
         } }
       </div>
       <div class="mb-3">
-        <label for="exampleInputPassword1" class="form-label"
+        <label for="inputnumdoc" class="form-label"
           >Número de documento</label
         >
         <input
           type="text"
           class="form-control"
-          id="exampleInputPassword1"
-          formControlName="numeroDocumento"
+          id="inputnumdoc"
+          formControlName="numeroIdentificacion"
           required
         />
-        @if (formConsultar.get("numeroDocumento")?.invalid &&
-        formConsultar.get("numeroDocumento")?.touched) { @if
-        (formConsultar.get("numeroDocumento")?.hasError("required")) {
+        @if (formConsultar.get("numeroIdentificacion")?.invalid &&
+        formConsultar.get("numeroIdentificacion")?.touched) { @if
+        (formConsultar.get("numeroIdentificacion")?.hasError("required")) {
         <div class="col-sm-12">
           <small id="passwordHelp" class="text-danger"
             >Debe escribir un número de documento.</small
@@ -50,7 +49,7 @@
         </div>
         } }
       </div>
-      <button type="submit" class="btn btn-primary">Buscar</button>
+      <button type="submit" [disabled]="!formConsultar.valid" class="btn btn-primary">Buscar</button>
     </form>
   </div>
 </div>

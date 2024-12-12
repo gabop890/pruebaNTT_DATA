@@ -1,0 +1,124 @@
+2024-12-12T10:48:24.420-05:00  INFO 18520 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 18520 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T10:48:24.428-05:00  INFO 18520 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T10:48:25.380-05:00  INFO 18520 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.22 seconds (process running for 2.024)
+2024-12-12T11:04:02.977-05:00  INFO 5892 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 5892 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T11:04:02.979-05:00  INFO 5892 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T11:04:03.868-05:00  INFO 5892 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.142 seconds (process running for 1.916)
+2024-12-12T11:12:01.618-05:00  INFO 17416 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 17416 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T11:12:01.619-05:00  INFO 17416 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T11:12:02.523-05:00  INFO 17416 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.165 seconds (process running for 1.971)
+2024-12-12T11:17:13.151-05:00  INFO 2748 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 2748 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T11:17:13.153-05:00  INFO 2748 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T11:17:14.050-05:00  INFO 2748 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.164 seconds (process running for 1.937)
+2024-12-12T11:19:12.446-05:00  INFO 14420 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 14420 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T11:19:12.448-05:00  INFO 14420 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T11:19:13.340-05:00  INFO 14420 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.136 seconds (process running for 1.937)
+2024-12-12T11:23:15.037-05:00  INFO 17128 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 17128 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T11:23:15.039-05:00  INFO 17128 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T11:23:15.963-05:00  INFO 17128 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.227 seconds (process running for 2.073)
+2024-12-12T11:41:45.446-05:00  INFO 3284 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 3284 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T11:41:45.446-05:00  INFO 3284 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T11:41:46.307-05:00  INFO 3284 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.098 seconds (process running for 1.871)
+2024-12-12T12:05:05.732-05:00  INFO 2436 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 2436 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T12:05:05.734-05:00  INFO 2436 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T12:05:06.617-05:00  INFO 2436 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.129 seconds (process running for 1.936)
+2024-12-12T12:18:20.111-05:00  INFO 13536 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 13536 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T12:18:20.113-05:00  INFO 13536 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T12:18:21.091-05:00  INFO 13536 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.245 seconds (process running for 2.077)
+2024-12-12T12:38:47.913-05:00  INFO 248 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 248 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T12:38:47.914-05:00  INFO 248 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T12:38:48.887-05:00  INFO 248 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.229 seconds (process running for 2.042)
+2024-12-12T12:42:07.790-05:00  INFO 8196 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 8196 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T12:42:07.791-05:00  INFO 8196 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T12:42:08.654-05:00  INFO 8196 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.102 seconds (process running for 1.847)
+2024-12-12T12:42:56.098-05:00  INFO 5972 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 5972 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T12:42:56.100-05:00  INFO 5972 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T12:42:56.989-05:00  INFO 5972 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.149 seconds (process running for 1.925)
+2024-12-12T12:48:43.167-05:00  INFO 12136 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 12136 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T12:48:43.168-05:00  INFO 12136 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T12:48:44.039-05:00  INFO 12136 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.103 seconds (process running for 1.881)
+2024-12-12T13:20:09.264-05:00  INFO 15468 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 15468 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T13:20:09.264-05:00  INFO 15468 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T13:20:10.179-05:00  INFO 15468 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.165 seconds (process running for 2.026)
+2024-12-12T13:21:23.212-05:00  INFO 17276 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 17276 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T13:21:23.214-05:00  INFO 17276 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T13:21:24.087-05:00  INFO 17276 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.123 seconds (process running for 1.899)
+2024-12-12T13:21:31.528-05:00  INFO 2792 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Starting BackApplication using Java 21.0.5 with PID 2792 (C:\Aplicaciones\NTT-DATA\back\target\classes started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T13:21:31.530-05:00  INFO 2792 --- [back] [restartedMain] com.nttdata.back.BackApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T13:21:31.567-05:00  INFO 2792 --- [back] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-12T13:21:31.567-05:00  INFO 2792 --- [back] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-12T13:21:32.404-05:00  INFO 2792 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8090 (http)
+2024-12-12T13:21:32.416-05:00  INFO 2792 --- [back] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-12T13:21:32.416-05:00  INFO 2792 --- [back] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12T13:21:32.446-05:00  INFO 2792 --- [back] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-12T13:21:32.447-05:00  INFO 2792 --- [back] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 879 ms
+2024-12-12T13:21:33.112-05:00  INFO 2792 --- [back] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-12T13:21:33.170-05:00  INFO 2792 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8090 (http) with context path '/'
+2024-12-12T13:21:33.183-05:00  INFO 2792 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Started BackApplication in 2.03 seconds (process running for 2.862)
+2024-12-12T13:21:48.718-05:00  INFO 2792 --- [back] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12T13:21:48.723-05:00  INFO 2792 --- [back] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-12T13:29:18.630-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Starting BackApplication using Java 21.0.5 with PID 14580 (C:\Aplicaciones\NTT-DATA\back\target\classes started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T13:29:18.632-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T13:29:18.672-05:00  INFO 14580 --- [back] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-12T13:29:18.672-05:00  INFO 14580 --- [back] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-12T13:29:19.531-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8090 (http)
+2024-12-12T13:29:19.545-05:00  INFO 14580 --- [back] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-12T13:29:19.545-05:00  INFO 14580 --- [back] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12T13:29:19.580-05:00  INFO 14580 --- [back] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-12T13:29:19.580-05:00  INFO 14580 --- [back] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 907 ms
+2024-12-12T13:29:20.131-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-12T13:29:20.178-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8090 (http) with context path '/'
+2024-12-12T13:29:20.190-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Started BackApplication in 1.983 seconds (process running for 2.472)
+2024-12-12T13:29:26.013-05:00  INFO 14580 --- [back] [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-12T13:29:26.013-05:00  INFO 14580 --- [back] [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-12T13:29:26.014-05:00  INFO 14580 --- [back] [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-12-12T13:47:52.290-05:00  INFO 14580 --- [back] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-12-12T13:47:52.296-05:00  INFO 14580 --- [back] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12T13:47:52.306-05:00  INFO 14580 --- [back] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-12T13:47:52.371-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Starting BackApplication using Java 21.0.5 with PID 14580 (C:\Aplicaciones\NTT-DATA\back\target\classes started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T13:47:52.372-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T13:47:52.629-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8090 (http)
+2024-12-12T13:47:52.630-05:00  INFO 14580 --- [back] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-12T13:47:52.630-05:00  INFO 14580 --- [back] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12T13:47:52.649-05:00  INFO 14580 --- [back] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-12T13:47:52.650-05:00  INFO 14580 --- [back] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 275 ms
+2024-12-12T13:47:52.740-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-12T13:47:52.748-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8090 (http) with context path '/'
+2024-12-12T13:47:52.750-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Started BackApplication in 0.408 seconds (process running for 1115.033)
+2024-12-12T13:47:52.753-05:00  INFO 14580 --- [back] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-12T13:47:54.180-05:00  INFO 14580 --- [back] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-12-12T13:47:54.181-05:00  INFO 14580 --- [back] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12T13:47:54.183-05:00  INFO 14580 --- [back] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-12T13:47:54.225-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Starting BackApplication using Java 21.0.5 with PID 14580 (C:\Aplicaciones\NTT-DATA\back\target\classes started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T13:47:54.226-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T13:47:54.449-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8090 (http)
+2024-12-12T13:47:54.453-05:00  INFO 14580 --- [back] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-12T13:47:54.454-05:00  INFO 14580 --- [back] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12T13:47:54.468-05:00  INFO 14580 --- [back] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-12T13:47:54.468-05:00  INFO 14580 --- [back] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 240 ms
+2024-12-12T13:47:54.559-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-12T13:47:54.566-05:00  INFO 14580 --- [back] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8090 (http) with context path '/'
+2024-12-12T13:47:54.567-05:00  INFO 14580 --- [back] [restartedMain] com.nttdata.back.BackApplication         : Started BackApplication in 0.36 seconds (process running for 1116.85)
+2024-12-12T13:47:54.568-05:00  INFO 14580 --- [back] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-12T13:47:59.906-05:00  INFO 14580 --- [back] [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-12T13:47:59.906-05:00  INFO 14580 --- [back] [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-12T13:47:59.906-05:00  INFO 14580 --- [back] [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-12-12T14:15:26.716-05:00  INFO 14580 --- [back] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12T14:15:26.718-05:00  INFO 14580 --- [back] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-12T14:16:39.960-05:00  INFO 13192 --- [back] [main] com.nttdata.back.BackApplicationTests    : Starting BackApplicationTests using Java 21.0.5 with PID 13192 (started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T14:16:39.962-05:00  INFO 13192 --- [back] [main] com.nttdata.back.BackApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T14:16:40.605-05:00  INFO 13192 --- [back] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-12-12T14:16:40.800-05:00  INFO 13192 --- [back] [main] com.nttdata.back.BackApplicationTests    : Started BackApplicationTests in 1.078 seconds (process running for 1.837)
+2024-12-12T14:18:18.715-05:00  INFO 3040 --- [back] [main] com.nttdata.back.BackApplication         : Starting BackApplication v0.0.1-SNAPSHOT using Java 21.0.5 with PID 3040 (C:\Aplicaciones\NTT-DATA\back\target\back-0.0.1-SNAPSHOT.jar started by USER in C:\Aplicaciones\NTT-DATA\back)
+2024-12-12T14:18:18.715-05:00  INFO 3040 --- [back] [main] com.nttdata.back.BackApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-12T14:18:19.433-05:00  INFO 3040 --- [back] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8090 (http)
+2024-12-12T14:18:19.443-05:00  INFO 3040 --- [back] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-12T14:18:19.445-05:00  INFO 3040 --- [back] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12T14:18:19.477-05:00  INFO 3040 --- [back] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-12T14:18:19.477-05:00  INFO 3040 --- [back] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 726 ms
+2024-12-12T14:18:19.558-05:00  INFO 3040 --- [back] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-12-12T14:18:19.761-05:00  INFO 3040 --- [back] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8090 (http) with context path '/'
+2024-12-12T14:18:19.775-05:00  INFO 3040 --- [back] [main] com.nttdata.back.BackApplication         : Started BackApplication in 1.439 seconds (process running for 1.793)
+2024-12-12T14:18:39.254-05:00  INFO 3040 --- [back] [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-12T14:18:39.255-05:00  INFO 3040 --- [back] [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-12T14:18:39.257-05:00  INFO 3040 --- [back] [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

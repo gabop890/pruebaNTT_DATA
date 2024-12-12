@@ -1,6 +1,5 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, signal } from '@angular/core';
-import { Identificacion } from '../model/identificacion';
 import { Observable } from 'rxjs';
 import { Usuario } from '../model/usuario';
 
@@ -8,17 +7,17 @@ import { Usuario } from '../model/usuario';
   providedIn: 'root',
 })
 export class ConsultarService {
-  urlBackend = 'http://localhost:8080';
-  private data = signal(Usuario);
+  urlBackend = 'http://localhost:8090';
+  private data!: Usuario;
 
   constructor(private httpClient: HttpClient) {}
 
-  consultarUsuario(value: Identificacion): Observable<Usuario> {
+  consultarUsuario(value: any): Observable<Usuario> {
     return this.httpClient.post<Usuario>(this.urlBackend + '/consultar', value);
   }
 
   setData(update: any) {
-    this.data.set(update);
+    this.data = update;
   }
 
   getData() {

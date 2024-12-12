@@ -1,7 +1,14 @@
 import { Component } from '@angular/core';
-import { FormBuilder, FormGroup, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
+import {
+  FormBuilder,
+  FormGroup,
+  FormsModule,
+  ReactiveFormsModule,
+  Validators,
+} from '@angular/forms';
 import { ConsultarService } from '../../service/consultar.service';
 import { Router } from '@angular/router';
+import { Usuario } from '../../model/usuario';
 
 @Component({
   selector: 'app-consultar',
@@ -12,32 +19,38 @@ import { Router } from '@angular/router';
 export class ConsultarComponent {
   formConsultar!: FormGroup;
 
-  constructor(private fb: FormBuilder, private consultarService: ConsultarService, 
-    private router: Router) {
-    this.inicializarForm()
+  constructor(
+    private fb: FormBuilder,
+    private consultarService: ConsultarService,
+    private router: Router
+  ) {
+    this.inicializarForm();
   }
 
   inicializarForm() {
     this.formConsultar = this.fb.group({
-      tipoDocumento: ['', [Validators.required]],
-      numeroDocumento: ['', [Validators.required]],
+      tipoIdentificacion: ['', [Validators.required]],
+      numeroIdentificacion: ['', [Validators.required]],
     });
   }
 
-  consultar(){    
+  consultar() {
     if (this.formConsultar.valid) {
-      this.consultarService.consultarUsuario(this.formConsultar.value).subscribe({
-        next: (data) =>{
+      let usuario: Usuario = this.formConsultar.value;
+      this.consultarService.consultarUsuario(usuario).subscribe({
+        next: (data) => {
+          console.log("usuario", data);
+          
           if (data) {
-            this.consultarService.setData(data)
-            this.router.navigate(['../resumen'])
+            this.consultarService.setData(data);
+            this.router.navigateByUrl('/dashboard/resumen');
           }
-        }
-      })
-    }else{
-      return Object.values(this.formConsultar.controls).forEach(control =>{
-        control.markAllAsTouched()
-      })
+        },
+      });
+    } else {
+      return Object.values(this.formConsultar.controls).forEach((control) => {
+        control.markAllAsTouched();
+      });
     }
   }
 }

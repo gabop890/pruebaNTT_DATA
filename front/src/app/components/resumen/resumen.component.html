@@ -1,1 +1,33 @@
-<p>resumen works!</p>
+<div class="card position-absolute top-50 start-50 translate-middle" >
+    <div class="card-body">
+        <h5 class="card-title">Información básica</h5>
+      <form
+        class=""
+        [formGroup]="formResumen"
+      >
+        <div class="mb-3">
+          <label class="input-group-text" for="inputGroupSelect01"
+            >Primer apellido</label
+          >
+          <input
+            type="text"
+            class="form-control"
+            formControlName="primerApellido"
+            readonly
+          />
+        </div>
+        <div class="mb-3">
+          <label for="inputnumdoc" class="form-label"
+            >Primer nombre</label
+          >
+          <input
+            type="text"
+            class="form-control"
+            id="inputnumdoc"
+            formControlName="primerNombre"
+            readonly
+          />
+        </div>
+      </form>
+    </div>
+  </div>
