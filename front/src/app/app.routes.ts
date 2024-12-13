@@ -7,7 +7,7 @@ export const routes: Routes = [
   { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
   {
     path: 'dashboard',
-    component: DashboardComponent,
+    component: DashboardComponent, title: "Prueba NTT DATA",
     children: [
       { path: 'consultar', component: ConsultarComponent },
       { path: 'resumen', component: ResumenComponent },

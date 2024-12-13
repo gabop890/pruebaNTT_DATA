@@ -9,6 +9,7 @@ import {
 import { ConsultarService } from '../../service/consultar.service';
 import { Router } from '@angular/router';
 import { Usuario } from '../../model/usuario';
+import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-consultar',
@@ -44,7 +45,20 @@ export class ConsultarComponent {
           if (data) {
             this.consultarService.setData(data);
             this.router.navigateByUrl('/dashboard/resumen');
+          }else{
+            Swal.fire({
+              title: "Verifique los datos",
+              text: "No se encuentra un usuario registrado con ese tipo y número de documento",
+              icon: "info"
+            });
           }
+        },
+        error: (err) =>{
+          console.error("Ha ocurrido un error al consultar el usuario ", err);
+          
+        }, 
+        complete: () => {
+          console.log("Se ha completado la consulta del usuario")
         },
       });
     } else {
